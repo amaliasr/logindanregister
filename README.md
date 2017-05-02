@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Praktikum2UpdateDelete2
 =======
 <<<<<<< HEAD
@@ -39,3 +40,6 @@
 # Praktikum2UpdateDelete2
 >>>>>>> 3c18727c9775fcd3d3232ae5f9c0cdbf1d6ace2c
 >>>>>>> Rara
+=======
+# logindanregister
+>>>>>>> 00d705cfbe225b4ded897be1c84a7ab72adfab79
