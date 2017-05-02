@@ -1,0 +1,3 @@
+<?php
+print "<a href=" . $this->config->base_url() . 'karyawan/delete/' . $karyawan->idkaryawan . ">delete</a>
+?>
